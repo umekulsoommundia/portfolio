@@ -249,6 +249,7 @@ width: 420px;
   padding-right: 370px;
 }
 
+
     }
 
   }
@@ -478,6 +479,7 @@ padding-top: 0;
     height: 70px;
     width: 280px
   }
+
 }
 
 
@@ -562,6 +564,8 @@ p{
   .skill{
     padding-left: 90px;
   }
+
+  
 
 }
 @media(max-width: 385px){
