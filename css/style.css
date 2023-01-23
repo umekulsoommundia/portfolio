@@ -678,7 +678,13 @@ p{
   }
 }
 
-
+@media(max-width: 355px){
+  #vector{
+    height: 170px;
+    width: 170px;
+  
+  }
+}
 #test1:hover {
 opacity: 0.5;
 }
