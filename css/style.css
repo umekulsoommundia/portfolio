@@ -583,6 +583,12 @@ p{
 }
 @media(max-width:490px)
 {
+  #vector{
+    height: 285px;
+    width: 295px;
+   padding-right: 30px;
+      
+  }
   .skill{
     padding-left: 90px;
   }
@@ -590,10 +596,33 @@ p{
   
 
 }
-@media(max-width: 385px){
+
+
+@media(max-width: 430px){
   #vector{
     height: 270px;
     width: 270px;
+  
+  }
+
+}
+
+
+@media(max-width: 400px){
+  #vector{
+    height: 260px;
+    width: 260px;
+  
+  }
+
+}
+
+
+
+@media(max-width: 385px){
+  #vector{
+    height: 200px;
+    width: 200px;
   
   }
   .med{
