@@ -154,6 +154,12 @@ color:#f00178
     -ms-transform: translate(-50%, -50%);
     background-color: #555;
   }
+  #vector{
+    height: 420px;
+    width: 420px;
+   margin-left: 120px;
+   margin-top: 60px;
+  }
 
   .skill2{
     font-size: 20px;
@@ -291,6 +297,8 @@ font-size: 12px;
 }
 
 @media(max-width:991px ){
+
+
   .skill{
     padding: 0;
   padding-left: 0;
@@ -406,7 +414,11 @@ margin-left: 90px;
 
 
 @media(max-width:760px){
+  #vector{
+    height: 360px;
+    width: 360px;
 
+  }
 
   #exp{
     margin: 0;
@@ -479,12 +491,22 @@ padding-top: 0;
     height: 70px;
     width: 280px
   }
+  #vector{
+    height: 310px;
+    width: 310px;
+  
+  }
 
 }
 
 
 @media(max-width:400px){
 
+  #vector{
+    height: 290px;
+    width: 290px;
+  
+  }
   .design{
     font-size: 40px;
   }
@@ -569,6 +591,11 @@ p{
 
 }
 @media(max-width: 385px){
+  #vector{
+    height: 270px;
+    width: 270px;
+  
+  }
   .med{
     font-size: 35px;
   }
@@ -616,12 +643,7 @@ p{
   }
 }
 
-#vector{
-  height: 420px;
-  width: 420px;
- margin-left: 120px;
- margin-top: 60px;
-}
+
 #test1:hover {
 opacity: 0.5;
 }
