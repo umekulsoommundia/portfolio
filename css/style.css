@@ -605,6 +605,8 @@ p{
   
   }
 
+
+
 }
 
 
@@ -614,7 +616,11 @@ p{
     width: 260px;
   
   }
-
+  #pg{
+    margin: 0;
+    height: 5px; 
+    width:270px;
+  }
 }
 
 
